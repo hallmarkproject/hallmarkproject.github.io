@@ -40,26 +40,6 @@ Become the med spa benchmark in San Antonio — known for craft, accessibility, 
 
 ---
 
-# Why Choose Hallmarkproject?
-
-### Built to return
-
-Consistency matters more than one flashy launch.
-
-### Local roots
-
-Based in San Antonio with a team you can meet in person.
-
-### Craft first
-
-We invest in the work behind the counter, not filler marketing.
-
-### Built to return
-
-Consistency matters more than one flashy launch.
-
----
-
 # Our Treatments
 
 ## Core Collection
@@ -96,16 +76,90 @@ Consistency matters more than one flashy launch.
 ---
 
 
+# Featured Categories
+
+| Category | Description |
+|----------|-------------|
+| **New Arrivals** | Latest additions to our med spa catalog |
+| **Best Sellers** | Customer favorites and most-requested options |
+| **Standard Package** | Most popular option |
+| **Treatments Starter** | Intro session / visit |
+| **Essentials** | Everyday foundations of the brand |
+| **Premium** | Elevated selections for special occasions |
+| **Support** | Guidance, sizing help and aftercare |
+| **Visit / Book** | Hours, appointments and walk-in options |
+
+
 ---
 
-# Hours & Visit
+# Brand Style
 
-| | |
-|---|---|
-| **Hours** | Mon–Sat 9:00–20:00 |
-| **City** | San Antonio, TX |
-| **Address** | 300 Alamo Plaza |
-| **Website** | https://hallmarkproject.github.io |
+### Refined Essentials
+
+Timeless basics that mix with almost anything.
+
+### Premium Moments
+
+Elevated selections when the occasion asks for more.
+
+### Seasonal Rotation
+
+Fresh highlights without resetting the whole catalog.
+
+### Workday Ready
+
+Practical choices that still look intentional.
+
+---
+
+# Why Choose Hallmarkproject?
+
+### Craft first
+
+We invest in the work behind the counter, not filler marketing.
+
+### Built to return
+
+Consistency matters more than one flashy launch.
+
+### Local roots
+
+Based in San Antonio with a team you can meet in person.
+
+### Craft first
+
+We invest in the work behind the counter, not filler marketing.
+---
+
+# What the website includes
+
+- Responsive layout tuned for mobile
+- Clear **Treatments** with prices
+- Visit page with map and hours
+- Contact form — stay on site, no redirects
+- Policies and support desk email
+
+---
+
+# Brand Identity
+
+**Industry:** Med Spa (Beauty & Wellness)  
+**Location:** San Antonio, TX  
+**Audience:** Customers looking for reliable, accessible med spa.
+
+---
+
+# Repository
+
+Public profile + website assets for **Hallmarkproject**.
+
+```text
+hallmarkproject/
+├── README.md
+└── hallmarkproject.github.io/
+```
+
+---
 
 # Customer Support
 
